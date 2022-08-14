@@ -18,7 +18,7 @@ Rubber Duck Programming first started in 1999 and hasn't changed since then. For
 
 Have we caught your attention? We appreciate your feedback at this early stage of our product. Do not hesitate to contact us. In fact, if your interested, we'd love to give you a tour of the prototype we built.
 
-{{< contact_form id="contact-form" placeholder_name="Name" placeholder_email="Email Address" placeholder_message="Message" button_label="Send ✉️">}}
+<!--{{< contact_form id="contact-form" placeholder_name="Name" placeholder_email="Email Address" placeholder_message="Message" button_label="Send ✉️">}}-->
 
 ---
 
@@ -50,6 +50,6 @@ We take data privacy very seriously, so we make sure not to store anything we do
 
 # Stay in touch
 
-Let's stay in touch. Sign up for our newsletter. Do not worry, we will not bother you with boring details. Expect nice & tight updates about once or twice every 3 months.
+Let's stay in touch. Sign up to stay updated with quack and hear when the first batch of ducks hit the water. Do not worry, we will not bother you with boring details. Expect nice & tight updates about once or twice every 3 months.
 
 {{< newsletter_sign_up id="newsletter-sign-up-form" placeholder_email="Your Email" button_label="Sign up">}}
