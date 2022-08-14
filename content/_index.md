@@ -1,6 +1,6 @@
 ---
-header_brand: "Builders Of The Future, Inc."
-header_tagline_paragraph: "Yes, we are glad you made it here. In fact, the only emotion stronger than our gladness is our desire to tell you more about what we are building. Bright times lie ahead. Let's get into it!"
+header_brand: "Quack Rubber Ducks"
+header_tagline_paragraph: "Everyone has a rubber duck, but programmers need them to talk back!"
 header_button_cta:
   url: "#contact-form"
   title: "Get in touch"
@@ -12,7 +12,7 @@ teaser_image: "images/teaser.jpg" # https://www.pexels.com/search/product%20test
 
 # The Future - Today!
 
-Some introductory text to get you excited about what we are doing. For example, I could tell you what our [prototype](#prototype) can do and then link you to our [contact form](#contact-form) so you can get in touch to ask for a **one-on-one** (or more :-)) showcase session.
+Rubber Duck Programming first started in 1999 and hasn't changed since then. For example, I could tell you what our [prototype](#prototype) can do and then link you to our [contact form](#contact-form) so you can get in touch to ask for a **one-on-one** (or more :-)) showcase session.
 
 ---
 
@@ -24,7 +24,7 @@ Have we caught your attention? We appreciate your feedback at this early stage o
 
 # Prototype
 
-You guessed it! We put our money where our mouth is. This is what we accomplished so far.
+You guessed it! We put our mouth where our money is. This is what we accomplished so far.
 
 ![Prototype Work](images/prototype.jpg) <!-- https://www.pexels.com/search/product%20testing/ -->
 
