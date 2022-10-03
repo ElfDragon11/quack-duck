@@ -6,7 +6,7 @@ header_button_cta:
   url: "#newsletter-sign-up-form"
   title: Want a Duck?
 header_button_more:
-  url: "#the-future---today"
+  url: "#rubber-duck-debugging"
   title: Why this is awesome?
 teaser_image: images/teaser.jpg
 
