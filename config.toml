@@ -8,7 +8,7 @@ hardWraps = true
 [params]
 copyright = "© Quack The Code"
 description = "Rubber ducks that hear your bugs."
-favicon = "images/favicon.png"
+favicon = "/favicon-32x32.png"
 hidedesignbyline = false
 images = ["images/share-image.png"]
 title = "Quack The Code"
