@@ -8,7 +8,7 @@ header_button_cta:
 header_button_more:
   url: "#rubber-duck-debugging"
   title: Why this is awesome?
-teaser_image: images/teaser.jpg
+teaser_image: "/img_6173.JPG"
 
 ---
 # Rubber Duck Debugging
@@ -19,7 +19,7 @@ Rubber Duck Debugging was first used in 1999 and hasn't changed since then. A us
 
 # Development
 
-Rubber ducks with a speaker in them? That's what we are working on, as well as building a library of soft responses for the duck to give in conversation pauses. 
+Rubber ducks with a speaker in them? That's what we are working on, as well as building a library of soft responses for the duck to give in conversation pauses.
 
 ![Prototype Work](images/prototype.jpg)
 
