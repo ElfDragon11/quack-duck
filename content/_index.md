@@ -32,8 +32,4 @@ Have we caught your attention? We appreciate your feedback at this early stage o
 
 Sign up to stay updated with Quack The Code and hear when the ducks hit the water. Do not worry, we will not bother you with boring details. Expect nice & tight updates about once or twice every few months.
 
-<!-- Google tag (gtag.js) --> 
-
-{{<script async src="[https://www.googletagmanager.com/gtag/js?id=G-XE79VHSN1K](https://www.googletagmanager.com/gtag/js?id=G-XE79VHSN1K "https://www.googletagmanager.com/gtag/js?id=G-XE79VHSN1K")"></script> <script> window.dataLayer = window.dataLayer || \[\]; function gtag(){dataLayer.push(arguments);} gtag('js', new Date()); gtag('config', 'G-XE79VHSN1K'); </script>}}
-
 {{< newsletter_sign_up id="newsletter-sign-up-form" placeholder_email="Your Email" button_label="Sign up">}}
