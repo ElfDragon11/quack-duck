@@ -10,7 +10,7 @@ copyright = "© Quack The Code"
 description = "Rubber ducks that hear your bugs."
 favicon = "/favicon-32x32.png"
 hidedesignbyline = false
-images = ["images/share-image.png"]
+images = ["/img_6204.JPG", "/img_6173.JPG"]
 title = "Quack The Code"
 [params.meta]
 keywords = "Rubber Duck, Debugging, Quack the code, Rubber duck debugging, duck debugging, software development, software debugging, software bugs"
