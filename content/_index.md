@@ -21,7 +21,7 @@ Rubber Duck Debugging was first used in 1999 and hasn't changed since then. A us
 
 Rubber ducks with a speaker in them? That's what we are working on, as well as building a library of soft responses for the duck to give in conversation pauses.
 
-![Prototype Work](images/prototype.jpg)
+img_6204.JPG
 
 Original Quack The Code prototype.
 
