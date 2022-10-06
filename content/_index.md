@@ -1,7 +1,7 @@
 ---
 header_brand: Quack The Code
-header_tagline_paragraph: Everyone has a rubber duck, but programmers need them to
-  talk back!
+header_tagline_paragraph: Rubber Duck Debugging is a great tool, but how much better
+  could it be if the duck talked back?
 header_button_cta:
   url: "#newsletter-sign-up-form"
   title: Want a Duck?
