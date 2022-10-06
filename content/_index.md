@@ -34,6 +34,6 @@ Sign up to stay updated with Quack The Code and hear when the ducks hit the wate
 
 <!-- Google tag (gtag.js) --> 
 
-<script async src="[https://www.googletagmanager.com/gtag/js?id=G-XE79VHSN1K](https://www.googletagmanager.com/gtag/js?id=G-XE79VHSN1K "https://www.googletagmanager.com/gtag/js?id=G-XE79VHSN1K")"></script> <script> window.dataLayer = window.dataLayer || \[\]; function gtag(){dataLayer.push(arguments);} gtag('js', new Date()); gtag('config', 'G-XE79VHSN1K'); </script>
+{{<script async src="[https://www.googletagmanager.com/gtag/js?id=G-XE79VHSN1K](https://www.googletagmanager.com/gtag/js?id=G-XE79VHSN1K "https://www.googletagmanager.com/gtag/js?id=G-XE79VHSN1K")"></script> <script> window.dataLayer = window.dataLayer || \[\]; function gtag(){dataLayer.push(arguments);} gtag('js', new Date()); gtag('config', 'G-XE79VHSN1K'); </script>}}
 
 {{< newsletter_sign_up id="newsletter-sign-up-form" placeholder_email="Your Email" button_label="Sign up">}}
