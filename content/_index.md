@@ -19,9 +19,8 @@ Rubber Duck Debugging was first used in 1999 and hasn't changed since then. A us
 
 # Development
 
-Rubber ducks with a speaker in them? That's what we are working on, as well as building a library of soft responses for the duck to give in conversation pauses.
-
-img_6204.JPG
+Rubber ducks with a speaker in them? That's what we are working on, as well as building a library of soft responses for the duck to give in conversation pauses.  
+![](/img_6204.JPG)
 
 Original Quack The Code prototype.
 
