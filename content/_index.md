@@ -28,7 +28,7 @@ Original Quack The Code prototype.
 
 # Want a duck?
 
-Have we caught your attention? We appreciate your feedback at this early stage of our product. Do not hesitate to contact us. In fact, if your interested, we'd love to give you a tour of the prototype we built.
+Have we caught your attention? We appreciate your feedback at this early stage of our product. Do not hesitate to contact us. In fact, if you're interested, we'd love to give you a tour of the prototype we built.
 
 Sign up to stay updated with Quack The Code and hear when the ducks hit the water. Do not worry, we will not bother you with boring details. Expect nice & tight updates about once or twice every few months.
 
